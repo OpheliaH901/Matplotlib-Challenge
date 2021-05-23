@@ -11,4 +11,4 @@ Quartiles, Outliers and Boxplots
 
 Line and Scatter Plots
 
-    Our newly created data frame was filtered to only include one Female mouse that was treated with Capomulin. Based on the line plot, there was a downward trend in the tumor volume over the course of 45 days. A downward trend in the tumor volume shows a positive impact, but because the data is negatively skewed based on Capomulin's box plot, the data may be misleading and a deeper analysis will be necessary.
+    Our newly created data frame was filtered to only include one Female mouse that was treated with Capomulin. Based on the line plot, there was a downward trend in the tumor volume over the course of 45 days (red line, constant). A downward trend in the tumor volume (blue line) shows a positive impact the regimen has on skin cancer, but because the data is negatively skewed based on Capomulin's box plot, the data may be misleading and a deeper analysis will be necessary.
